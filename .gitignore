@@ -1,2 +1,5 @@
 py27
 py35
+*.pyc
+__pycache__
+*.vmprof
